@@ -35,12 +35,12 @@ class Txt(object):
 
 <blockquote><b>𝘕𝘰𝘵𝘦 :</b> 𝘈𝘥𝘶𝘭𝘵 𝘊𝘰𝘯𝘵𝘦𝘯𝘵 𝘪𝘴 𝘚𝘛𝘙𝘐𝘊𝘛𝘓𝘠 𝘱𝘳𝘰𝘩𝘪𝘣𝘪𝘵𝘦𝘥 𝘉𝘢𝘯 𝘸𝘪𝘭𝘭 𝘣𝘦 𝘱𝘦𝘳𝘮𝘢𝘯𝘦𝘯𝘵.</blockquote>"""
 
-    ABOUT_TXT = ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://youtube.com/@techifybots'>ᴢᴏʀᴏ ʀᴇɴᴀᴍᴇ ʙᴏᴛ</a>
+    ABOUT_TXT = ABOUT_TXT = """<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href='https://telegram.me/FileRenamerSTbot'>ʀᴇɴᴀᴍᴇ ʙᴏᴛ</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ᴅᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏᴅʙ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://www.koyeb.com/'>ᴋᴏʏᴇʙ</a>
-‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/callownerbot'>ʀᴀʜᴜʟ</a></b>"""
+‣ ᴄʀᴇᴀᴛᴇᴅ ʙʏ : <a href='https://telegram.me/Sitaratoons_Support_bot'>TS Rename</a></b>"""
 
 
     HELP_TXT = """
