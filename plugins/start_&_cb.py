@@ -104,7 +104,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.ABOUT_TXT,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("👨‍💻  ʀᴇᴘᴏ", url="https://github.com/TechifyBots/Rename-Bot-2GB"),
+                [InlineKeyboardButton("🤖 ᴍᴏʀᴇ ʙᴏᴛs", url="https://t.me/ST_Rename_Update/6"),
                 InlineKeyboardButton("💥  ᴅᴏɴᴀᴛᴇ", callback_data="donate")],
 		[InlineKeyboardButton("ʜᴏᴍᴇ", callback_data="start")]
             ])            
@@ -115,7 +115,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.DONATE_TXT,
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("🤖 ᴍᴏʀᴇ ʙᴏᴛs", url="https://telegram.me/TechifyBots/8")],
+                [InlineKeyboardButton("🤖 ᴍᴏʀᴇ ʙᴏᴛs", url="https://t.me/ST_Rename_Update/6")],
                 [InlineKeyboardButton("ʙᴀᴄᴋ", callback_data = "about"),
                 InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data = "close")]
             ])            
