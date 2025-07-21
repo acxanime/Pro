@@ -15,13 +15,13 @@ class Config(object):
     # other configs
     BOT_UPTIME = time.time()
     START_PIC = (os.environ.get("START_PIC", "https://envs.sh/N2f.jpg https://envs.sh/N2a.jpg https://envs.sh/N2O.jpg")).split()
-    ADMIN = int(os.environ.get("ADMIN", ""))
+    ADMIN = int(os.environ.get("ADMIN", "6692613520"))
 
     # channels
     IS_FSUB = os.environ.get("IS_FSUB", "False").lower() == "true"  # Set "True" For Enable Force Subscribe
-    AUTH_CHANNELS = list(map(int, os.environ.get("AUTH_CHANNELS", "").split())) # Add Multiple Channels iD By Space
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
-    BIN_CHANNEL = int(os.environ.get("BIN_CHANNEL", ""))
+    AUTH_CHANNELS = list(map(int, os.environ.get("AUTH_CHANNELS","ST_Rename_Update").split())) # Add Multiple Channels iD By Space
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002320080278"))
+    BIN_CHANNEL = int(os.environ.get("BIN_CHANNEL", "-1002451946366"))
 
     # wes response configuration     
     WEBHOOK = bool(os.environ.get("WEBHOOK", True))
